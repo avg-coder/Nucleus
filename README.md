@@ -34,3 +34,5 @@ source venv/bin/activate
     brew install poppler # MacOS User
     ```
 
+## Documentation:
+Notion: https://www.notion.so/playment/Solutions-Engineers-Anonymous-26de8256253580abb4c4ebc83bde500c
