@@ -420,7 +420,8 @@ def process_document(file_path: str, context: str):
 # -------------------------------------------------
 # Execute
 # -------------------------------------------------
-# context = "Detect relevant PII of a passenger from the ticket. The relevant content cannot be verbose in nature."
+# context = "Detect relevant PII of a passenger from the ticket."
+
 
 def open_file(filepath):
     system_name = platform.system()

@@ -1,1 +1,6 @@
 .env
+how_to_use.txt
+docs/.DS_Store
+__pycache__/
+.DS_Store
+keys.py
